@@ -1,0 +1,27 @@
+.container input {
+  color: ghostwhite;
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  border: 1px dashed rgb(133, 8, 8);
+  margin: 2px;
+  font-size: xx-large;
+  background-image: url(../../assets/bg.jpg);
+}
+.calculator input {
+  width: 410px;
+  height: 55px;
+  border-radius: 8px;
+  border: 2px dotted rgb(110, 18, 6);
+  background-color: rgb(231, 215, 200);
+  font-size: xx-large;
+}
+.full {
+  border: 10px solid grey;
+  margin: 2px;
+  padding: 12px;
+  width: 460px;
+  border-radius: 20px;
+  background-image: url(../../assets/bg.jpg);
+  background-size: 100%;
+}
